@@ -1,0 +1,6 @@
+@fta_management_api_HostAddress = http://localhost:5120
+
+GET {{fta_management_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
