@@ -1,0 +1,25 @@
+﻿namespace FitnessTrackerAppManagement.Domain.Entities
+{
+    public class Workout
+    {
+        #region Properties
+
+        public int Id { get; set; }
+        public User User { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string? Description { get; set; }
+        public int DurationInMinutes { get; set; }
+        public int CaloriesBurned { get; set; }
+        public string IntensityLevel { get; set; }
+        public DateTime ScheduledAt { get; set; }
+        public string Status { get; set; } 
+        public Guid UserId { get; set; }    
+
+        #endregion Properties
+
+        #region Navigation Properties
+        public ICollection<Calorie> Calories { get; set; } = new List<Calorie>();
+
+        #endregion Navigation Properties
+    }
+}
