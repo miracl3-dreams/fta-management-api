@@ -2,9 +2,9 @@
 
 Empowering Fitness Innovation Through Seamless Management
 
-[![last commit](https://img.shields.io/github/last-commit/miracl13-dreams/fta-management-api?color=blue&label=last%20commit)](https://github.com/miracl13-dreams/fta-management-api/commits/main)
-[![code coverage](https://img.shields.io/badge/coverage-100.0%25-brightgreen)](https://github.com/miracl13-dreams/fta-management-api)
-[![languages](https://img.shields.io/github/languages/count/miracl13-dreams/fta-management-api?color=orange&label=languages)](https://github.com/miracl13-dreams/fta-management-api)
+[![last commit](https://img.shields.io/github/last-commit/miracl3-dreams/fta-management-api?color=blue&label=last%20commit)](https://github.com/miracl3-dreams/fta-management-api/commits/main)
+[![code coverage](https://img.shields.io/badge/coverage-100.0%25-brightgreen)](https://github.com/miracl3-dreams/fta-management-api)
+[![languages](https://img.shields.io/github/languages/count/miracl3-dreams/fta-management-api?color=orange&label=languages)](https://github.com/miracl3-dreams/fta-management-api)
 
 Built with the tools and technologies:
 
