@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FitnessTrackerAppManagement.Application.Common.DTOs.Requests
+﻿namespace FitnessTrackerAppManagement.Application.Common.DTOs.Requests
 {
     public class FoodUpdateRequest
     {
