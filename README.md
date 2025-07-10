@@ -52,7 +52,7 @@ Build fta-management-api from the source and install dependencies:
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/miracl13-dreams/fta-management-api](https://github.com/miracl13-dreams/fta-management-api)
+    git clone [https://github.com/miracl3-dreams/fta-management-api](https://github.com/miracl3-dreams/fta-management-api)
     ```
 
 2.  Navigate to the project directory:
