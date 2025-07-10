@@ -2,9 +2,10 @@
 
 Empowering Fitness Innovation Through Seamless Management
 
-[![last commit](https://img.shields.io/github/last-commit/miracl13-dreams/fta-management-api?color=blue&label=last%20commit)](https://github.com/miracl13-dreams/fta-management-api/commits/main)
-[![code coverage](https://img.shields.io/badge/coverage-100.0%25-brightgreen)](https://github.com/miracl13-dreams/fta-management-api)
-[![languages](https://img.shields.io/github/languages/count/miracl13-dreams/fta-management-api?color=orange&label=languages)](https://github.com/miracl13-dreams/fta-management-api)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+[![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/)
 
 Built with the tools and technologies:
 
