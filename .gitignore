@@ -3,8 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Appsetings.json
+# Prevent pushing sensitive config files
 **/appsettings.json
+*/appsettings..json
 
 # User-specific files
 *.rsuser
