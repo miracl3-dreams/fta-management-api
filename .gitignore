@@ -6,6 +6,8 @@
 # Prevent pushing sensitive config files
 **/appsettings.json
 */appsettings..json
+**/appsettings.Development.json
+
 
 # User-specific files
 *.rsuser
